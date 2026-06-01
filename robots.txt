@@ -1,5 +1,4 @@
 User-agent: *
-
 Allow: /
 
-Sitemap: https://domain-kamu.com/sitemap.xml
+Sitemap: https://ranex-website.vercel.app/sitemap.xml
