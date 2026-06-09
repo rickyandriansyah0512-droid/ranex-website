@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ranex-website.vercel.app/sitemap.xml
+Sitemap: https://ranexgroup.my.id/sitemap.xml
