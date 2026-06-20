@@ -1587,3 +1587,40 @@ img{
     width: 100%;
   }
 }
+.business-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.business-card a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 18px;
+  padding: 12px 18px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #2563eb, #7c3aed);
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 14px 30px rgba(37, 99, 235, 0.28);
+  transition: 0.25s ease;
+}
+
+.business-card a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 18px 38px rgba(37, 99, 235, 0.38);
+}
+
+.business-card p {
+  min-height: 92px;
+}
+
+.business-grid {
+  align-items: stretch;
+}
+
+.business-card {
+  height: 100%;
+}
