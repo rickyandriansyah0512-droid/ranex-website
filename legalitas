@@ -1,0 +1,38 @@
+<main class="legal-page">
+
+  <div class="container">
+
+    <h1>Legalitas Perusahaan</h1>
+
+    <p>
+      Informasi legalitas dan identitas badan usaha
+      RANEX GROUP INDONESIA.
+    </p>
+
+    <table class="legal-table">
+
+      <tr>
+        <td>Nama Badan Hukum</td>
+        <td>RANEX GROUP INDONESIA</td>
+      </tr>
+
+      <tr>
+        <td>Bentuk Usaha</td>
+        <td>Perseroan Perorangan</td>
+      </tr>
+
+      <tr>
+        <td>Status</td>
+        <td>Aktif</td>
+      </tr>
+
+      <tr>
+        <td>Penerbit</td>
+        <td>Kementerian Hukum Republik Indonesia</td>
+      </tr>
+
+    </table>
+
+  </div>
+
+</main>
