@@ -1,5 +1,4 @@
 User-agent: *
-
 Allow: /
 
-Sitemap: https://ranexgroup.my.id/sitemap.xml
+Sitemap: https://media.ranexgroup.my.id/sitemap.xml
